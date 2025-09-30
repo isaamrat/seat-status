@@ -1,6 +1,10 @@
-# BRACU Seat Status
+# [BRACU Connect Seat Status](https://isaamrat.github.io/seat-status/)
 
 A modern, dark-mode web app for exploring BRAC University course\'s seat status. It presents seat status in an efficient, searchable UI optimized for both desktop and mobile.
+
+---
+
+
 
 ---
 
